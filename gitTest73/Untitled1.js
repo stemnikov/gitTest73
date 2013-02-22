@@ -1,5 +1,6 @@
 ﻿var		test = "asdfqwer";
 
+test;
 test += " ";
 test += "the end";
 
