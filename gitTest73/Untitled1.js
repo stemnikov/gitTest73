@@ -4,3 +4,4 @@ test += " ";
 test += "the end";
 
 test;
+test;
