@@ -6,3 +6,4 @@ test += "the end";
 
 test;
 test;
+test;
